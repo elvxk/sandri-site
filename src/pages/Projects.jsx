@@ -69,7 +69,7 @@ const Projects = ({ data }) => {
           className="z-[7]"
           width="95%"
           height="400"
-          // data-aos="fade-up"
+          data-aos="fade-up"
           allow="autoplay"
           src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1546494838&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=false"
         ></iframe>
