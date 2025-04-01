@@ -11,7 +11,7 @@ const Projects = ({ data }) => {
       <div className="opacity-[20%]">
         <div data-aos="fade-down">
           <div className="absolute font-korean text-8xl right-24  px-6 lg:px-[20vh] py-20 scale-150 top-10 text-cpink dark:text-ccyan opacity-50">
-            key 프<br />로<br />젝<br />트
+            프<br />로<br />젝<br />트
           </div>
         </div>
         <div data-aos="fade-up">
