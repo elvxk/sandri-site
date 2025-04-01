@@ -3,12 +3,12 @@ import { useEffect, useState } from "react";
 import elvxk from "./elvxk";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Hero from "@/pages/Hero";
-import Projects from "@/pages/Projects";
+import Hero from "@/sections/Hero";
+import Projects from "@/sections/Projects";
 import Navbar from "@/components/Navbar";
 import SideNav from "@/components/SideNav";
-import About from "@/pages/About";
-import Contact from "@/pages/Contact";
+import About from "@/sections/About";
+import Contact from "@/sections/Contact";
 import Footer from "@/components/Footer";
 
 console.info(elvxk);
