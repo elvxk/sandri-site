@@ -14,7 +14,7 @@ import Footer from "@/components/Footer";
 console.info(elvxk);
 export default function Home() {
   const [projects, setProjects] = useState(null);
-  const url = "http://coba.sawerkuy.biz.id:3666";
+  const url = "https://api.sandri.my.id";
 
   useEffect(() => {
     AOS.init();
