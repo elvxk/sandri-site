@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\elvxk\\Projects\\new-sandri.my.id\\master\\sandrimyid",
+    "outputFileTracingRoot": "C:\\Users\\elvxk\\Projects\\sandri-site",
     "experimental": {
       "allowedDevOrigins": [],
       "nodeMiddleware": false,
@@ -175,7 +175,7 @@
       "forceSwcTransforms": false,
       "largePageDataBytes": 128000,
       "turbo": {
-        "root": "C:\\Users\\elvxk\\Projects\\new-sandri.my.id\\master\\sandrimyid"
+        "root": "C:\\Users\\elvxk\\Projects\\sandri-site"
       },
       "typedRoutes": false,
       "typedEnv": false,
@@ -281,7 +281,7 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs"
   },
-  "appDir": "C:\\Users\\elvxk\\Projects\\new-sandri.my.id\\master\\sandrimyid",
+  "appDir": "C:\\Users\\elvxk\\Projects\\sandri-site",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
