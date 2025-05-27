@@ -14,7 +14,7 @@ import Footer from "@/components/Footer";
 console.info(elvxk);
 export default function Home() {
   const [projects, setProjects] = useState(null);
-  const url = "https://api.sandri.my.id";
+  const url = "https://api.pradipta.dev";
 
   useEffect(() => {
     AOS.init();
